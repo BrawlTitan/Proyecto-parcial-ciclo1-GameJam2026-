@@ -20,7 +20,7 @@ La Tierra se encuentra en proceso de colonización lunar. El jugador pilota la n
 | Peligro | Lluvia de meteoritos |
 | Vidas | 3 |
 | Tiempo | Aleatorio entre 80 y 120 segundos |
-| Velocidad de la nave | Aleatoria entre partidas (3 niveles) |
+| Velocidad de la nave | Aleatoria entre partidas |
 
 ### Características
 - Pantalla de título, introducción con instrucciones, menú principal y créditos
@@ -79,7 +79,7 @@ Earth is undergoing lunar colonization. The player pilots the **Orion** spacecra
 | Hazard | Meteor shower |
 | Lives | 3 |
 | Time limit | Random, between 80 and 120 seconds |
-| Ship speed | Random per game (3 levels) |
+| Ship speed | Random per game |
 
 ### Features
 - Title screen, intro with instructions, main menu and credits
