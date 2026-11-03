@@ -57,7 +57,7 @@ Este proyecto refleja el nivel de un primer ciclo. Con la experiencia posterior,
 ### Equipo
 | Integrante | Rol | GitHub |
 |---|---|---|
-| Robben Cercado | Programación | [@robbeneca-spec](https://github.com/robben4579) |
+| Robben Cercado | Programación | [@robbeneca-spec](https://github.com/robbeneca-spec) |
 | Mateo Alvarado | Programación | [@BrawlTitan](https://github.com/BrawlTitan) |
 | Rodrigo Cerrano | Programación y diseño | — |
 
@@ -116,6 +116,6 @@ This project reflects a first-semester skill level. With the experience gained s
 ### Team
 | Member | Role | GitHub |
 |---|---|---|
-| Robben Cercado | Programming | [@robben4579](https://github.com/robben4579) |
+| Robben Cercado | Programming | [@robben4579](https://github.com/robbeneca-spec) |
 | Mateo Alvarado | Programming | [@BrawlTitan](https://github.com/BrawlTitan) |
 | Rodrigo Cerrano | Programming and design | — |
